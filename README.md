@@ -19,6 +19,7 @@ This function takes two inputs. perpendicular and base of a right-angled triangl
 solution:
 
     h= 8.602325267042627
+math-gamma
 
 * Input: A real number
 * Return Type: A floating-point number
