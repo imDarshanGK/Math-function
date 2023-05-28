@@ -1,4 +1,4 @@
-# math-modf
+# math
 import math modf
 
 * Input: A real number
@@ -29,3 +29,15 @@ This function takes one number x as an argument and returns the value of the gam
 solution:
 
      g= 5.2993297338097065
+     
+  math.degrees(x)
+
+* Input: A real number
+* Return type: A floating-point number
+
+This function takes one number x in radians as input and returns the converted value of x in degrees.
+* math.degrees(math.pi)=180.o
+
+solution:
+
+    d= 180.0
