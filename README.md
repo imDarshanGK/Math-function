@@ -10,7 +10,7 @@ solution:
 
     (0.7599999999999998, 14.0)
 
-math-hypotenuse
+# math-hypotenuse
 * Input: Two real numbers
 * Return Type: A floating-point number
 
@@ -19,7 +19,7 @@ This function takes two inputs. perpendicular and base of a right-angled triangl
 solution:
 
     h= 8.602325267042627
-math-gamma
+# math-gamma
 
 * Input: A real number
 * Return Type: A floating-point number
@@ -30,7 +30,7 @@ solution:
 
      g= 5.2993297338097065
      
-  math.degrees(x)
+# math.degrees(x)
 
 * Input: A real number
 * Return type: A floating-point number
