@@ -115,3 +115,7 @@ Area Circumference
 
        Enter radius:12
        area= 452.3893421169302 circumfarence= 75.39822368615503
+# Area of the circle
+Area of the circle
+
+    452.3893421169302
